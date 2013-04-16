@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SimpleTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="compass_page">Compass</string>
+    <string name="media_page">Media</string>
+    <string name="btn_open_compass">Open Compass</string>
+    <string name="btn_open_audio_list">Show Audio files</string>
+</resources>
