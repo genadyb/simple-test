@@ -14,6 +14,7 @@ import android.hardware.SensorEvent;
 import android.hardware.SensorEventListener;
 import android.hardware.SensorManager;
 
+
 public class CompassActivity extends SimpleTestActivity implements SensorEventListener {
 	
 	public static float m_fRot = 0;
